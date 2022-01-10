@@ -1,0 +1,35 @@
+In the previous comment,I have done for only size 3 array.Here I am performing for an array size of 4.
+The average run time and Standard Deviation for each sort are as follows : 
+
+This is my observation for 100 test cases.
+
+----BOGO SORT------
+
+2
+Enter the size of the array : 4
+Enter the 1 element :6
+Enter the 2 element :2
+Enter the 3 element :9
+Enter the 4 element :4
+
+The elements before sorting : 6 2 9 4
+
+The elements after Bogo sort : 2 4 6 9
+Mean = 0.138560
+
+Standard Deviation = 0.970207
+
+-------RANDOMISED QUICK SORT-------
+3
+Enter the size of the array : 4
+Enter the 1 element :6
+Enter the 2 element :2
+Enter the 3 element :9
+Enter the 4 element :4
+
+The elements before sorting : 6 2 9 4
+
+The elements after Quick sort : 2 4 6 9
+Mean = 0.000810
+
+Standard Deviation = 0.000784
